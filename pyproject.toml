@@ -1,0 +1,13 @@
+[project]
+name = "Boplant Doctor"
+version = "1.0.0"
+description = "A Plant Disease Detection system"
+requires-python = ">=3.9"
+dependency = [
+    "streamlit",
+    "scikit-learn",
+    "numpy",
+    "torch",
+    "torchvision",
+    "pillow"
+]
