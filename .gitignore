@@ -1,3 +1,9 @@
+# Ignore raw and processed data
+data/train/
+data/valid/
+data/test/
+data/processed/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
